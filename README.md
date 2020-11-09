@@ -1,6 +1,6 @@
 # sbt-pipeline
 
-[![Build Status](https://travis-ci.com/githubfoam/sbt-pipeline.svg?branch=dev)](https://travis-ci.com/githubfoam/sbt-pipeline)  
+[![Build Status](https://travis-ci.com/githubfoam/sbt-pipeline.svg?branch=main)](https://travis-ci.com/githubfoam/sbt-pipeline)  
 
 ~~~~
 https://sdkman.io/install
